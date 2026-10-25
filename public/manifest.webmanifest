@@ -1,1 +1,25 @@
-{"name":"Christina — Conversation Journal","short_name":"Journal","description":"A private place to capture and organize thoughts","start_url":"/","display":"standalone","background_color":"#f8f5fa","theme_color":"#241d32","icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+
+{
+  "name": "Christina — Conversation Journal",
+  "short_name": "Christina Journal",
+  "description": "A private place to capture and organize thoughts",
+  "id": "/christina-conversation-journal/",
+  "start_url": "/christina-conversation-journal/",
+  "scope": "/christina-conversation-journal/",
+  "display": "standalone",
+  "background_color": "#f8f5fa",
+  "theme_color": "#241d32",
+  "icons": [
+    {
+      "src": "/christina-conversation-journal/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/christina-conversation-journal/journal-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
